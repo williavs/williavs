@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-v3--ai.com-blue?style=flat-square)](https://willyv3.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-willyv3-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/willyv3)
-[![Blog](https://img.shields.io/badge/Blog-red?style=flat-square&logo=gmail)](https://breakshit.blog)
+[![Blog](https://img.shields.io/badge/Blog-red?style=flat-square)](https://breakshit.blog)
 
 ## 🤖 AI Engineer by Night, Product Manager by Day
 
