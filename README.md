@@ -1,8 +1,8 @@
 # Hi, I'm Willy V3 👋
 
-[![Website](https://img.shields.io/badge/Website-v3--ai.com-blue?style=flat-square)](https://v3-ai.com)
+[![Website](https://img.shields.io/badge/Website-v3--ai.com-blue?style=flat-square)](https://willyv3.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-willyv3-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/willyv3)
-[![Email](https://img.shields.io/badge/Email-willy%40v3--ai.com-red?style=flat-square&logo=gmail)](mailto:willy@v3-ai.com)
+[![Blog](https://img.shields.io/badge/Blog-red?style=flat-square&logo=gmail)](https://breakshit.blog)
 
 ## 🤖 AI Engineer by Night, Product Manager by Day
 
